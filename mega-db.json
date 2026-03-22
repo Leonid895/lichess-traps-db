@@ -119,6 +119,114 @@
       "from": "e2",
       "to": "e7",
       "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "d3",
+      "to": "h7",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "b1",
+      "to": "h7",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "c2",
+      "to": "h7",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "d7",
+      "to": "b5",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "e5",
+      "to": "d6",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "f1",
+      "to": "f6",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "g5",
+      "to": "h7",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "a5",
+      "to": "c3",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "d7",
+      "to": "h3",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "e4",
+      "to": "e5",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "c1",
+      "to": "c8",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "c8",
+      "to": "c3",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "h4",
+      "to": "d8",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "b3",
+      "to": "b4",
+      "color": "#15781B"
+    },
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "c2",
+      "to": "c4",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "a2",
+      "to": "c4",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "g6",
+      "to": "h6",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "b4",
+      "to": "b7",
+      "color": "#15781B"
     }
   ],
   "f4": [
@@ -126,6 +234,12 @@
       "name": "Bird Opening: From's Gambit",
       "from": "e7",
       "to": "e5",
+      "color": "#15781B"
+    },
+    {
+      "name": "Bird Opening",
+      "from": "e7",
+      "to": "e6",
       "color": "#15781B"
     }
   ],
@@ -210,6 +324,12 @@
       "name": "Bird Opening: From's Gambit",
       "from": "g8",
       "to": "h6",
+      "color": "#15781B"
+    },
+    {
+      "name": "Bird Opening: From's Gambit",
+      "from": "b8",
+      "to": "c6",
       "color": "#15781B"
     }
   ],
@@ -1241,6 +1361,36 @@
       "from": "f7",
       "to": "f6",
       "color": "#15781B"
+    },
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "e7",
+      "to": "e6",
+      "color": "#15781B"
+    },
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "c7",
+      "to": "c5",
+      "color": "#15781B"
+    },
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "b8",
+      "to": "c6",
+      "color": "#15781B"
+    },
+    {
+      "name": "Scandinavian Defense: Mieses-Kotroc Variation",
+      "from": "d7",
+      "to": "d5",
+      "color": "#15781B"
+    },
+    {
+      "name": "Borg Defense",
+      "from": "g7",
+      "to": "g5",
+      "color": "#15781B"
     }
   ],
   "e4 e5": [
@@ -1260,6 +1410,18 @@
       "name": "King's Pawn Game: Wayward Queen Attack",
       "from": "d1",
       "to": "h5",
+      "color": "#15781B"
+    },
+    {
+      "name": "King's Gambit Declined: Classical Variation",
+      "from": "f2",
+      "to": "f4",
+      "color": "#15781B"
+    },
+    {
+      "name": "Portuguese Opening",
+      "from": "f1",
+      "to": "b5",
       "color": "#15781B"
     }
   ],
@@ -1782,6 +1944,12 @@
       "name": "Bishop's Opening",
       "from": "g8",
       "to": "f6",
+      "color": "#15781B"
+    },
+    {
+      "name": "Bishop's Opening",
+      "from": "d7",
+      "to": "d6",
       "color": "#15781B"
     }
   ],
@@ -2384,6 +2552,12 @@
       "name": "Benoni Defense: Benoni Gambit Accepted",
       "from": "c7",
       "to": "c5",
+      "color": "#15781B"
+    },
+    {
+      "name": "Englund Gambit",
+      "from": "e7",
+      "to": "e5",
       "color": "#15781B"
     }
   ],
@@ -3714,6 +3888,12 @@
       "name": "Indian Defense: Budapest Defense",
       "from": "e7",
       "to": "e5",
+      "color": "#15781B"
+    },
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "e7",
+      "to": "e6",
       "color": "#15781B"
     }
   ],
@@ -6065,6 +6245,12 @@
       "from": "c8",
       "to": "f5",
       "color": "#15781B"
+    },
+    {
+      "name": "Caro-Kann Defense: Two Knights Attack",
+      "from": "b8",
+      "to": "d7",
+      "color": "#15781B"
     }
   ],
   "e4 c6 Nc3 d5 Nf3 dxe4 Nxe4 Nf6": [
@@ -7403,6 +7589,12 @@
       "from": "b8",
       "to": "c6",
       "color": "#15781B"
+    },
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g8",
+      "to": "f6",
+      "color": "#15781B"
     }
   ],
   "e4 e5 Nf3 Nc6": [
@@ -7410,6 +7602,12 @@
       "name": "Ruy Lopez",
       "from": "f1",
       "to": "b5",
+      "color": "#15781B"
+    },
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "f1",
+      "to": "c4",
       "color": "#15781B"
     }
   ],
@@ -12273,6 +12471,12 @@
       "from": "g8",
       "to": "f6",
       "color": "#15781B"
+    },
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c8",
+      "to": "f5",
+      "color": "#15781B"
     }
   ],
   "d4 d5 Bf4 h5": [
@@ -12286,6 +12490,12 @@
       "name": "Queen's Pawn Game: Accelerated London System",
       "from": "g1",
       "to": "f3",
+      "color": "#15781B"
+    },
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "f4",
+      "to": "c7",
       "color": "#15781B"
     }
   ],
@@ -13005,6 +13215,12 @@
       "from": "c7",
       "to": "c6",
       "color": "#15781B"
+    },
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "e7",
+      "to": "e6",
+      "color": "#15781B"
     }
   ],
   "d4 d5 c4 c6": [
@@ -13669,6 +13885,12 @@
       "from": "b8",
       "to": "c6",
       "color": "#15781B"
+    },
+    {
+      "name": "King's Pawn Game: Wayward Queen Attack",
+      "from": "e8",
+      "to": "e7",
+      "color": "#15781B"
     }
   ],
   "e4 e5 Qh5 Nc6": [
@@ -13732,6 +13954,5910 @@
       "name": "Bishop's Opening: Berlin Defense",
       "from": "f6",
       "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+": [
+    {
+      "name": "?",
+      "from": "g8",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7": [
+    {
+      "name": "?",
+      "from": "f3",
+      "to": "g5",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "c3",
+      "to": "h3",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "d1",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "g6",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "h6",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "f6",
+      "to": "g5",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6": [
+    {
+      "name": "?",
+      "from": "h4",
+      "to": "h5",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "d1",
+      "to": "d3",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "d1",
+      "to": "g4",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "h2",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h5+": [
+    {
+      "name": "?",
+      "from": "g6",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h5+ Kh6": [
+    {
+      "name": "?",
+      "from": "g5",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h5+ Kh6 Nxf7+": [
+    {
+      "name": "?",
+      "from": "h6",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h5+ Kh6 Nxf7+ Kh7": [
+    {
+      "name": "?",
+      "from": "d1",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h5+ Kh6 Nxf7+ Kh7 Qd3+": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h5+ Kh6 Nxf7+ Kh7 Qd3+ Kg8": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "d8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qd3+": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qd3+ f5": [
+    {
+      "name": "?",
+      "from": "h2",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qd3+ f5 h4": [
+    {
+      "name": "?",
+      "from": "b7",
+      "to": "b6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qd3+ f5 h4 b6": [
+    {
+      "name": "?",
+      "from": "h4",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qd3+ f5 h4 b6 h5+": [
+    {
+      "name": "?",
+      "from": "g6",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qd3+ f5 h4 b6 h5+ Kh6": [
+    {
+      "name": "?",
+      "from": "b2",
+      "to": "c1",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qd3+ f5 h4 b6 h5+ Kh6 Bc1": [
+    {
+      "name": "?",
+      "from": "b6",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qd3+ f5 h4 b6 h5+ Kh6 Bc1 bxc5": [
+    {
+      "name": "?",
+      "from": "g5",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6": [
+    {
+      "name": "?",
+      "from": "d1",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3": [
+    {
+      "name": "?",
+      "from": "g7",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6": [
+    {
+      "name": "?",
+      "from": "h4",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5": [
+    {
+      "name": "?",
+      "from": "h6",
+      "to": "g7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7": [
+    {
+      "name": "?",
+      "from": "g5",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7": [
+    {
+      "name": "?",
+      "from": "f8",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7": [
+    {
+      "name": "?",
+      "from": "h5",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5": [
+    {
+      "name": "?",
+      "from": "h1",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+": [
+    {
+      "name": "?",
+      "from": "g7",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6": [
+    {
+      "name": "?",
+      "from": "d3",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3": [
+    {
+      "name": "?",
+      "from": "e7",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4": [
+    {
+      "name": "?",
+      "from": "b8",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6": [
+    {
+      "name": "?",
+      "from": "g2",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4": [
+    {
+      "name": "?",
+      "from": "f5",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4": [
+    {
+      "name": "?",
+      "from": "h4",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+": [
+    {
+      "name": "?",
+      "from": "g6",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7": [
+    {
+      "name": "?",
+      "from": "h6",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7 Rh7+": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7 Rh7+ Ke8": [
+    {
+      "name": "?",
+      "from": "h3",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7 Rh7+ Ke8 Qh5+": [
+    {
+      "name": "?",
+      "from": "e8",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7 Rh7+ Ke8 Qh5+ Kf8": [
+    {
+      "name": "?",
+      "from": "h5",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7 Rh7+ Ke8 Qh5+ Kf8 Qh6+": [
+    {
+      "name": "?",
+      "from": "f8",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7 Rh7+ Ke8 Qh5+ Kf8 Qh6+ Ke8": [
+    {
+      "name": "?",
+      "from": "h6",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7 Rh7+ Ke8 Qh5+ Kf8 Qh6+ Ke8 Qg6+": [
+    {
+      "name": "?",
+      "from": "e8",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7 Rh7+ Ke8 Qh5+ Kf8 Qh6+ Ke8 Qg6+ Kf8": [
+    {
+      "name": "?",
+      "from": "g6",
+      "to": "g7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7 Rh7+ Ke8 Qh5+ Kf8 Qh6+ Ke8 Qg6+ Kf8 Qg7+": [
+    {
+      "name": "?",
+      "from": "f8",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kh6 Qd3 g6 h5 Kg7 Nxf7 Rxf7 hxg6 Rf5 Rh7+ Kxg6 Qh3 Bh4 Rxh4 Nc6 g4 Rf4 Rh6+ Kf7 Rh7+ Ke8 Qh5+ Kf8 Qh6+ Ke8 Qg6+ Kf8 Qg7+ Ke8": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "h8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5": [
+    {
+      "name": "?",
+      "from": "g4",
+      "to": "g3",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "e5",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 Qg3": [
+    {
+      "name": "?",
+      "from": "d8",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 Qg3 Qe8": [
+    {
+      "name": "?",
+      "from": "g5",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 Qg3 Qe8 Nxe6+": [
+    {
+      "name": "?",
+      "from": "g6",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 Qg3 Qe8 Nxe6+ Kf7": [
+    {
+      "name": "?",
+      "from": "e6",
+      "to": "g7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 Qg3 Qe8 Nxe6+ Kf7 Nxg7": [
+    {
+      "name": "?",
+      "from": "f8",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 Qg3 Qe8 Nxe6+ Kf7 Nxg7 Rg8": [
+    {
+      "name": "?",
+      "from": "g7",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 Qg3 Qe8 Nxe6+ Kf7 Nxg7 Rg8 Nxe8": [
+    {
+      "name": "?",
+      "from": "g8",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 Qg3 Qe8 Nxe6+ Kf7 Nxg7 Rg8 Nxe8 Rxg3": [
+    {
+      "name": "?",
+      "from": "e8",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 Qg3 Qe8 Nxe6+ Kf7 Nxg7 Rg8 Nxe8 Rxg3 Nd6+": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 Qg3 Qe8 Nxe6+ Kf7 Nxg7 Rg8 Nxe8 Rxg3 Nd6+ Kg8": [
+    {
+      "name": "?",
+      "from": "h2",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5": [
+    {
+      "name": "?",
+      "from": "h4",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+": [
+    {
+      "name": "?",
+      "from": "g6",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6": [
+    {
+      "name": "?",
+      "from": "d4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5": [
+    {
+      "name": "?",
+      "from": "f8",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5": [
+    {
+      "name": "?",
+      "from": "d5",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6": [
+    {
+      "name": "?",
+      "from": "d7",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6": [
+    {
+      "name": "?",
+      "from": "d1",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3": [
+    {
+      "name": "?",
+      "from": "d8",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4": [
+    {
+      "name": "?",
+      "from": "g5",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4 Nh7+": [
+    {
+      "name": "?",
+      "from": "f6",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4 Nh7+ Kf7": [
+    {
+      "name": "?",
+      "from": "f3",
+      "to": "b3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4 Nh7+ Kf7 Qb3+": [
+    {
+      "name": "?",
+      "from": "c8",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4 Nh7+ Kf7 Qb3+ Be6": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4 Nh7+ Kf7 Qb3+ Be6 Ng5+": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4 Nh7+ Kf7 Qb3+ Be6 Ng5+ Kf6": [
+    {
+      "name": "?",
+      "from": "g5",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4 Nh7+ Kf7 Qb3+ Be6 Ng5+ Kf6 Nxe6": [
+    {
+      "name": "?",
+      "from": "e8",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4 Nh7+ Kf7 Qb3+ Be6 Ng5+ Kf6 Nxe6 Rxe6": [
+    {
+      "name": "?",
+      "from": "c1",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4 Nh7+ Kf7 Qb3+ Be6 Ng5+ Kf6 Nxe6 Rxe6 Bg5+": [
+    {
+      "name": "?",
+      "from": "f6",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 h4 f5 h5+ Kf6 d5 Bc5 dxc6 dxc6 Qf3 Qd4 Nh7+ Kf7 Qb3+ Be6 Ng5+ Kf6 Nxe6 Rxe6 Bg5+ Kf7": [
+    {
+      "name": "?",
+      "from": "a1",
+      "to": "d1",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 exf6": [
+    {
+      "name": "?",
+      "from": "g6",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 exf6 Kxf6": [
+    {
+      "name": "?",
+      "from": "f1",
+      "to": "e1",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 exf6 Kxf6 Re1": [
+    {
+      "name": "?",
+      "from": "b8",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 exf6 Kxf6 Re1 Qd6": [
+    {
+      "name": "?",
+      "from": "e1",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 exf6 Kxf6 Re1 Qd6 Re6+": [
+    {
+      "name": "?",
+      "from": "d6",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 exf6 Kxf6 Re1 Qd6 Re6+ Qxe6": [
+    {
+      "name": "?",
+      "from": "g4",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg6 Qg4 f5 exf6 Kxf6 Re1 Qd6 Re6+ Qxe6 Qxe6+": [
+    {
+      "name": "?",
+      "from": "f6",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "d2",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "d7",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "e4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "e6",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "f1",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "f8",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3 Bd6": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "g1",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3 Bd6 Nf3": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "g8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3 Bd6 Nf3 Ne7": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "e1",
+      "to": "g1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3 Bd6 Nf3 Ne7 O-O": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "e8",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3 Bd6 Nf3 Ne7 O-O O-O": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "d3",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3 Bd6 Nf3 Ne7 O-O O-O Bxh7+": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "g8",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3 Bd6 Nf3 Ne7 O-O O-O Bxh7+ Kxh7": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "f3",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3 Bd6 Nf3 Ne7 O-O O-O Bxh7+ Kxh7 Ng5+": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "h7",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3 Bd6 Nf3 Ne7 O-O O-O Bxh7+ Kxh7 Ng5+ Kg8": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "d1",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e6 d4 d5 exd5 exd5 Bd3 Bd6 Nf3 Ne7 O-O O-O Bxh7+ Kxh7 Ng5+ Kg8 Qh5": [
+    {
+      "name": "French Defense: Exchange Variation",
+      "from": "c8",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Rh3+": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Rh3+ Kg8": [
+    {
+      "name": "?",
+      "from": "e2",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Rh3+ Kg8 Qh5": [
+    {
+      "name": "?",
+      "from": "f6",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Rh3+ Kg8 Qh5 Qh6": [
+    {
+      "name": "?",
+      "from": "d6",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Rh3+ Kg8 Qh5 Qh6 Nf5": [
+    {
+      "name": "?",
+      "from": "h6",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Rh3+ Kg8 Qh5 Qh6 Nf5 Qxh5": [
+    {
+      "name": "?",
+      "from": "f5",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Rh3+ Kg8 Qh5 Qh6 Nf5 Qxh5 Ne7+": [
+    {
+      "name": "?",
+      "from": "g8",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Rh3+ Kg8 Qh5 Qh6 Nf5 Qxh5 Ne7+ Kh7": [
+    {
+      "name": "?",
+      "from": "h3",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh2+": [
+    {
+      "name": "?",
+      "from": "g1",
+      "to": "h2",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh2+ Kxh2": [
+    {
+      "name": "?",
+      "from": "f6",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh2+ Kxh2 Ng4+": [
+    {
+      "name": "?",
+      "from": "h2",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh2+ Kxh2 Ng4+ Kg3": [
+    {
+      "name": "?",
+      "from": "d8",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh2+ Kxh2 Ng4+ Kg3 Qd6+": [
+    {
+      "name": "?",
+      "from": "f2",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh2+ Kxh2 Ng4+ Kg3 Qd6+ f4": [
+    {
+      "name": "?",
+      "from": "e4",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh2+ Kxh2 Ng4+ Kg3 Qd6+ f4 exf3+": [
+    {
+      "name": "?",
+      "from": "g3",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh2+ Kxh2 Ng4+ Kg3 Qd6+ f4 exf3+ Kxf3": [
+    {
+      "name": "?",
+      "from": "e8",
+      "to": "e3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Qh5+": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Qh5+ Kg8": [
+    {
+      "name": "?",
+      "from": "d4",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ fxg5": [
+    {
+      "name": "?",
+      "from": "d1",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ fxg5 Qh5+": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "g7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ fxg5 Qh5+ Kg7": [
+    {
+      "name": "?",
+      "from": "h5",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ fxg5 Qh5+ Kg7 Qxg5+": [
+    {
+      "name": "?",
+      "from": "g7",
+      "to": "h8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ fxg5 Qh5+ Kg7 Qxg5+ Kh8": [
+    {
+      "name": "?",
+      "from": "c4",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "Bb5": [
+    {
+      "name": "?",
+      "from": "h2",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "Bb5 h3": [
+    {
+      "name": "?",
+      "from": "b5",
+      "to": "f1",
+      "color": "#15781B"
+    }
+  ],
+  "Bb5 h3 Bxf1": [
+    {
+      "name": "?",
+      "from": "d1",
+      "to": "f1",
+      "color": "#15781B"
+    }
+  ],
+  "exd6": [
+    {
+      "name": "?",
+      "from": "d8",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "h6",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "g7",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6": [
+    {
+      "name": "?",
+      "from": "f6",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6": [
+    {
+      "name": "?",
+      "from": "g7",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6": [
+    {
+      "name": "?",
+      "from": "h4",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6 Qxh6": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6 Qxh6 f6": [
+    {
+      "name": "?",
+      "from": "c4",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6 Qxh6 f6 Bxe6+": [
+    {
+      "name": "?",
+      "from": "d4",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6 Qxh6 f6 Bxe6+ Nxe6": [
+    {
+      "name": "?",
+      "from": "c3",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6 Qxh6 f6 Bxe6+ Nxe6 Nd5": [
+    {
+      "name": "?",
+      "from": "e7",
+      "to": "g7",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6 Qxh6 f6 Bxe6+ Nxe6 Nd5 Qg7": [
+    {
+      "name": "?",
+      "from": "g5",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6 Qxh6 f6 Bxe6+ Nxe6 Nd5 Qg7 Nxe6": [
+    {
+      "name": "?",
+      "from": "g7",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6 Qxh6 f6 Bxe6+ Nxe6 Nd5 Qg7 Nxe6 Qxh6": [
+    {
+      "name": "?",
+      "from": "e3",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6 Qxh6 f6 Bxe6+ Nxe6 Nd5 Qg7 Nxe6 Qxh6 Bxh6": [
+    {
+      "name": "?",
+      "from": "f8",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "Rxf6 h6 Rxh6 gxh6 Qxh6 f6 Bxe6+ Nxe6 Nd5 Qg7 Nxe6 Qxh6 Bxh6 Rf7": [
+    {
+      "name": "?",
+      "from": "a1",
+      "to": "f1",
+      "color": "#15781B"
+    }
+  ],
+  "Nxh7": [
+    {
+      "name": "?",
+      "from": "e7",
+      "to": "d8",
+      "color": "#15781B"
+    }
+  ],
+  "Nxh7 Qd8": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "Nxh7 Qd8 Nxf8": [
+    {
+      "name": "?",
+      "from": "d8",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "Nxh7 Qd8 Nxf8 Qxf8": [
+    {
+      "name": "?",
+      "from": "c4",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Nxh7 Qd8 Nxf8 Qxf8 Bxe6": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "Nxh7 Qd8 Nxf8 Qxf8 Bxe6 fxe6": [
+    {
+      "name": "?",
+      "from": "e3",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "Nxh7 Qd8 Nxf8 Qxf8 Bxe6 fxe6 Bxd4": [
+    {
+      "name": "?",
+      "from": "e5",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "Nxh7 Qd8 Nxf8 Qxf8 Bxe6 fxe6 Bxd4 exd4": [
+    {
+      "name": "?",
+      "from": "c3",
+      "to": "e2",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3": [
+    {
+      "name": "?",
+      "from": "f4",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5": [
+    {
+      "name": "?",
+      "from": "d4",
+      "to": "e2",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+": [
+    {
+      "name": "?",
+      "from": "g1",
+      "to": "h1",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1": [
+    {
+      "name": "?",
+      "from": "f6",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5": [
+    {
+      "name": "?",
+      "from": "e3",
+      "to": "f2",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2": [
+    {
+      "name": "?",
+      "from": "e2",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+": [
+    {
+      "name": "?",
+      "from": "f2",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3": [
+    {
+      "name": "?",
+      "from": "h5",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+": [
+    {
+      "name": "?",
+      "from": "h4",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3": [
+    {
+      "name": "?",
+      "from": "c3",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5": [
+    {
+      "name": "?",
+      "from": "g3",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4 h6": [
+    {
+      "name": "?",
+      "from": "g5",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4 h6 Nf3": [
+    {
+      "name": "?",
+      "from": "e7",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4 h6 Nf3 Qxh4": [
+    {
+      "name": "?",
+      "from": "f3",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4 h6 Nf3 Qxh4 Nxh4": [
+    {
+      "name": "?",
+      "from": "e6",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4 h6 Nf3 Qxh4 Nxh4 Bxc4": [
+    {
+      "name": "?",
+      "from": "d3",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4 h6 Nf3 Qxh4 Nxh4 Bxc4 dxc4": [
+    {
+      "name": "?",
+      "from": "e5",
+      "to": "b2",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4 h6 Nf3 Qxh4 Nxh4 Bxc4 dxc4 Bxb2": [
+    {
+      "name": "?",
+      "from": "a1",
+      "to": "b1",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4 h6 Nf3 Qxh4 Nxh4 Bxc4 dxc4 Bxb2 Rab1": [
+    {
+      "name": "?",
+      "from": "b2",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4 h6 Nf3 Qxh4 Nxh4 Bxc4 dxc4 Bxb2 Rab1 Bd4": [
+    {
+      "name": "?",
+      "from": "b1",
+      "to": "b7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxc3 fxe5 Ne2+ Kh1 Nh5 Bf2 Neg3+ Bxg3 Nxg3+ Qxg3 Bxe5 Qh4 h6 Nf3 Qxh4 Nxh4 Bxc4 dxc4 Bxb2 Rab1 Bd4 Rxb7": [
+    {
+      "name": "?",
+      "from": "d4",
+      "to": "b6",
+      "color": "#15781B"
+    }
+  ],
+  "Qxh3": [
+    {
+      "name": "?",
+      "from": "g2",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "Qxh3 gxh3": [
+    {
+      "name": "?",
+      "from": "d4",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "Qxh3 gxh3 Nxf3+": [
+    {
+      "name": "?",
+      "from": "g1",
+      "to": "g2",
+      "color": "#15781B"
+    }
+  ],
+  "Qxh3 gxh3 Nxf3+ Kg2": [
+    {
+      "name": "?",
+      "from": "f3",
+      "to": "d2",
+      "color": "#15781B"
+    }
+  ],
+  "Qxh3 gxh3 Nxf3+ Kg2 Nxd2": [
+    {
+      "name": "?",
+      "from": "e3",
+      "to": "d2",
+      "color": "#15781B"
+    }
+  ],
+  "e5": [
+    {
+      "name": "?",
+      "from": "a8",
+      "to": "d8",
+      "color": "#15781B"
+    },
+    {
+      "name": "?",
+      "from": "f6",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e5 Rd8": [
+    {
+      "name": "?",
+      "from": "e5",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e5 Rd8 exf6+": [
+    {
+      "name": "?",
+      "from": "g7",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "g1",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "b7",
+      "to": "b6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "a2",
+      "to": "a3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "c8",
+      "to": "a6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "d1",
+      "to": "c2",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "a6",
+      "to": "b7",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "b1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "c7",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "e2",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5 e4": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "c5",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5 e4 cxd4": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "f3",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5 e4 cxd4 Nxd4": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "b8",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5 e4 cxd4 Nxd4 Nc6": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "d4",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5 e4 cxd4 Nxd4 Nc6 Nxc6": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "b7",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5 e4 cxd4 Nxd4 Nc6 Nxc6 Bxc6": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "c1",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5 e4 cxd4 Nxd4 Nc6 Nxc6 Bxc6 Bf4": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "f6",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5 e4 cxd4 Nxd4 Nc6 Nxc6 Bxc6 Bf4 Nh5": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "f4",
+      "to": "e3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5 e4 cxd4 Nxd4 Nc6 Nxc6 Bxc6 Bf4 Nh5 Be3": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "f8",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 Nf6 c4 e6 Nf3 b6 a3 Ba6 Qc2 Bb7 Nc3 c5 e4 cxd4 Nxd4 Nc6 Nxc6 Bxc6 Bf4 Nh5 Be3 Bd6": [
+    {
+      "name": "Queen's Indian Defense: Petrosian Variation, Farago Defense",
+      "from": "c2",
+      "to": "d1",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "b1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "g8",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "c4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "e6",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "c1",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "b8",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Nbd7": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "c3",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Nbd7 Nxd5": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "f6",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Nbd7 Nxd5 Nxd5": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "g5",
+      "to": "d8",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Nbd7 Nxd5 Nxd5 Bxd8": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "f8",
+      "to": "b4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Nbd7 Nxd5 Nxd5 Bxd8 Bb4+": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "d1",
+      "to": "d2",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Nbd7 Nxd5 Nxd5 Bxd8 Bb4+ Qd2": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "b4",
+      "to": "d2",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Nbd7 Nxd5 Nxd5 Bxd8 Bb4+ Qd2 Bxd2+": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "e1",
+      "to": "d2",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Nbd7 Nxd5 Nxd5 Bxd8 Bb4+ Qd2 Bxd2+ Kxd2": [
+    {
+      "name": "Queen's Gambit Declined: Exchange Variation, Positional Variation",
+      "from": "e8",
+      "to": "d8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8": [
+    {
+      "name": "?",
+      "from": "d1",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8 Qh5": [
+    {
+      "name": "?",
+      "from": "f8",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Re8": [
+    {
+      "name": "?",
+      "from": "h5",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Re8 Qxf7+": [
+    {
+      "name": "?",
+      "from": "g8",
+      "to": "h8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Re8 Qxf7+ Kh8": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Re8 Qxf7+ Kh8 Qh5+": [
+    {
+      "name": "?",
+      "from": "h8",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Re8 Qxf7+ Kh8 Qh5+ Kg8": [
+    {
+      "name": "?",
+      "from": "h5",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Re8 Qxf7+ Kh8 Qh5+ Kg8 Qh7+": [
+    {
+      "name": "?",
+      "from": "g8",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Re8 Qxf7+ Kh8 Qh5+ Kg8 Qh7+ Kf8": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "h8",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Re8 Qxf7+ Kh8 Qh5+ Kg8 Qh7+ Kf8 Qh8+": [
+    {
+      "name": "?",
+      "from": "f8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Re8 Qxf7+ Kh8 Qh5+ Kg8 Qh7+ Kf8 Qh8+ Ke7": [
+    {
+      "name": "?",
+      "from": "h8",
+      "to": "g7",
+      "color": "#15781B"
+    }
+  ],
+  "Rxc8+": [
+    {
+      "name": "?",
+      "from": "a8",
+      "to": "c8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "g8",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "f3",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "d7",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "e4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "f6",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "g5",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "e8",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "d1",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "f7",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "c4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "c6",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "f3",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "d4",
+      "to": "c2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "e4",
+      "to": "c2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "d8",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "e1",
+      "to": "g1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "c8",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "g2",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "g7",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "b1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "d5",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "c2",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "c7",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "d2",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "e5",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "c1",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "e7",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "e4",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "d7",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "c3",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "e6",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "f2",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "h8",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "g1",
+      "to": "f2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8 Kf2": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "h7",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8 Kf2 h6": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "g5",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8 Kf2 h6 Bh4": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "b7",
+      "to": "b6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8 Kf2 h6 Bh4 b6": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "f1",
+      "to": "g1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8 Kf2 h6 Bh4 b6 Rg1": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "f8",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8 Kf2 h6 Bh4 b6 Rg1 Bc5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "g1",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8 Kf2 h6 Bh4 b6 Rg1 Bc5 Rxg8": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "a8",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8 Kf2 h6 Bh4 b6 Rg1 Bc5 Rxg8 Rxg8": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "e4",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8 Kf2 h6 Bh4 b6 Rg1 Bc5 Rxg8 Rxg8 Nxc5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "b6",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke7 Bxd5 Nd4 Qe4 Nxc2+ Qxc2 Qxd5 O-O Bh3 gxh3 g5 Nc3 Qe6 Qe4 c6 d4 exd4 Bxg5+ Kd7 Qxe6+ Kxe6 Ne4 Kf5 f3 Rg8 Kf2 h6 Bh4 b6 Rg1 Bc5 Rxg8 Rxg8 Nxc5 bxc5": [
+    {
+      "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+      "from": "a1",
+      "to": "c1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "f2",
+      "to": "f4",
+      "color": "#15781B"
+    },
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "d2",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "d7",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "e4",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "c8",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "d2",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "e7",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "g2",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "d8",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "e1",
+      "to": "d2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "f5",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "g1",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "g4",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3 Bxf3": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "d1",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3 Bxf3 Qxf3": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "b8",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3 Bxf3 Qxf3 Nc6": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "c2",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3 Bxf3 Qxf3 Nc6 c3": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "e8",
+      "to": "c8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3 Bxf3 Qxf3 Nc6 c3 O-O-O": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "f3",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3 Bxf3 Qxf3 Nc6 c3 O-O-O Qg3": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "h4",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3 Bxf3 Qxf3 Nc6 c3 O-O-O Qg3 Qh6": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "f1",
+      "to": "g2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3 Bxf3 Qxf3 Nc6 c3 O-O-O Qg3 Qh6 Bg2": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "g8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3 Bxf3 Qxf3 Nc6 c3 O-O-O Qg3 Qh6 Bg2 Nge7": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "h1",
+      "to": "f1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 f4 d5 e5 Bf5 d3 e6 g4 Qh4+ Kd2 Bxg4 Nf3 Bxf3 Qxf3 Nc6 c3 O-O-O Qg3 Qh6 Bg2 Nge7 Rf1": [
+    {
+      "name": "Sicilian Defense: McDonnell Attack",
+      "from": "c6",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "c5",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "c2",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "d4",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "b1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "e7",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "g1",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "b8",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "f1",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "f8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "c1",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "a7",
+      "to": "a6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "e4",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "e7",
+      "to": "b4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "e1",
+      "to": "g1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "b4",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "b2",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "b7",
+      "to": "b5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "c4",
+      "to": "b3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "g8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "d1",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "e8",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "b3",
+      "to": "c2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "g7",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "f4",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "d8",
+      "to": "c7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "g5",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "e7",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "d3",
+      "to": "d2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "d5",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "e5",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "c7",
+      "to": "d8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "d2",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8 Qg5": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "d7",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8 Qg5 d6": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "h2",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8 Qg5 d6 h4": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "c8",
+      "to": "b7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8 Qg5 d6 h4 Bb7": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "h4",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8 Qg5 d6 h4 Bb7 h5": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "c6",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8 Qg5 d6 h4 Bb7 h5 Ne5": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "f3",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8 Qg5 d6 h4 Bb7 h5 Ne5 Nxe5": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "d6",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8 Qg5 d6 h4 Bb7 h5 Ne5 Nxe5 dxe5": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "a1",
+      "to": "d1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8 Qg5 d6 h4 Bb7 h5 Ne5 Nxe5 dxe5 Rad1": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "d8",
+      "to": "c7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c5 d4 cxd4 c3 dxc3 Nxc3 e6 Nf3 Nc6 Bc4 Be7 Bf4 a6 e5 Bb4 O-O Bxc3 bxc3 b5 Bb3 Nge7 Qd3 O-O Bc2 g6 Bg5 Qc7 Bf6 Nd5 Qd2 Nxf6 exf6 Qd8 Qg5 d6 h4 Bb7 h5 Ne5 Nxe5 dxe5 Rad1 Qc7": [
+    {
+      "name": "Sicilian Defense: Smith-Morra Gambit Accepted",
+      "from": "g5",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "b1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "c6",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f1",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g8",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g1",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "d4",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "d2",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "d7",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "c3",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "e7",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "c1",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f7",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g5",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h6",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h2",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "e6",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "e4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "d8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "e1",
+      "to": "f1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "c6",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f3",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f6",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "c4",
+      "to": "b5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "c7",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "d5",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "a7",
+      "to": "a6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "c6",
+      "to": "b7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "a6",
+      "to": "b5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "b7",
+      "to": "a8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "e8",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "a8",
+      "to": "c8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "e7",
+      "to": "a7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "c8",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g4",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f5",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f7",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "d1",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g6",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g2",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h5",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "e6",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g6",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f5",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f7",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g4",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "a7",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h3",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "d4",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h4",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g6",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h1",
+      "to": "g1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g5",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "e6",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f4",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h3",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4 Qf5+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "g7",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4 Qf5+ g5": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f5",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4 Qf5+ g5 Qxf6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h4",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4 Qf5+ g5 Qxf6 Qh3+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f1",
+      "to": "e1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4 Qf5+ g5 Qxf6 Qh3+ Ke1": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h8",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4 Qf5+ g5 Qxf6 Qh3+ Ke1 Rg8": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f6",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4 Qf5+ g5 Qxf6 Qh3+ Ke1 Rg8 Qf7+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h5",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4 Qf5+ g5 Qxf6 Qh3+ Ke1 Rg8 Qf7+ Kh4": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f7",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4 Qf5+ g5 Qxf6 Qh3+ Ke1 Rg8 Qf7+ Kh4 Qxh7+": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "f8",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 Nc6 Nc3 Nd4 Bc4 Nh6 Nf3 Nc6 d3 d6 Nd5 e6 Bg5 f6 Bf4 Ng4 h3 exd5 exd5 Qe7+ Kf1 Nd4 Nxd4 f5 Bb5+ c6 dxc6 a6 cxb7+ axb5 bxa8=Q Kf7 Qxc8 Qa7 Qxf5+ Nf6 Qe6+ Kg6 Qh5+ Kxh5 g4+ Kg6 Qf5+ Kf7 Qe6+ Kg6 g5 Qxd4 h4 Qxf4 h5+ Kxg5 Rg1+ Kxh5 Qh3+ Qh4 Qf5+ g5 Qxf6 Qh3+ Ke1 Rg8 Qf7+ Kh4 Qxh7+ Bh6": [
+    {
+      "name": "Nimzowitsch Defense",
+      "from": "h7",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Qc3": [
+    {
+      "name": "?",
+      "from": "c1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "Qc3 Rxc3": [
+    {
+      "name": "?",
+      "from": "a6",
+      "to": "b4",
+      "color": "#15781B"
+    }
+  ],
+  "Qd8": [
+    {
+      "name": "?",
+      "from": "c5",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "Qd8 c4": [
+    {
+      "name": "?",
+      "from": "d8",
+      "to": "b6",
+      "color": "#15781B"
+    }
+  ],
+  "b4+": [
+    {
+      "name": "?",
+      "from": "c5",
+      "to": "b4",
+      "color": "#15781B"
+    }
+  ],
+  "b4+ cxb4": [
+    {
+      "name": "?",
+      "from": "h4",
+      "to": "b4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Qh5 Ke7": [
+    {
+      "name": "King's Pawn Game: Wayward Queen Attack",
+      "from": "h5",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bc4 Nc6 Qf3 d6": [
+    {
+      "name": "Bishop's Opening",
+      "from": "f3",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "f4 e5 fxe5 d6 exd6 Bxd6 Nf3 Nc6": [
+    {
+      "name": "Bird Opening: From's Gambit",
+      "from": "h2",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "f4 e5 fxe5 d6 exd6 Bxd6 Nf3 Nc6 h3": [
+    {
+      "name": "Bird Opening: From's Gambit",
+      "from": "d6",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c6 Nc3 d5 Nf3 dxe4 Nxe4 Nd7": [
+    {
+      "name": "Caro-Kann Defense: Two Knights Attack",
+      "from": "d1",
+      "to": "e2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c6 Nc3 d5 Nf3 dxe4 Nxe4 Nd7 Qe2": [
+    {
+      "name": "Caro-Kann Defense: Two Knights Attack",
+      "from": "g8",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 c6 Nc3 d5 Nf3 dxe4 Nxe4 Nd7 Qe2 Ngf6": [
+    {
+      "name": "Caro-Kann Defense: Two Knights Attack",
+      "from": "e4",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 d5": [
+    {
+      "name": "Scandinavian Defense: Mieses-Kotroc Variation",
+      "from": "e4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 d5 exd5": [
+    {
+      "name": "Scandinavian Defense: Mieses-Kotroc Variation",
+      "from": "d8",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 d5 exd5 Qxd5": [
+    {
+      "name": "Scandinavian Defense: Mieses-Kotroc Variation",
+      "from": "e1",
+      "to": "e2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 d5 exd5 Qxd5 Ke2": [
+    {
+      "name": "Scandinavian Defense: Mieses-Kotroc Variation",
+      "from": "d5",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "f4 e6": [
+    {
+      "name": "Bird Opening",
+      "from": "g2",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "f4 e6 g4": [
+    {
+      "name": "Bird Opening",
+      "from": "d8",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 f4": [
+    {
+      "name": "King's Gambit Declined: Classical Variation",
+      "from": "f8",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 f4 Bc5": [
+    {
+      "name": "King's Gambit Declined: Classical Variation",
+      "from": "f4",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 f4 Bc5 fxe5": [
+    {
+      "name": "King's Gambit Declined: Classical Variation",
+      "from": "d8",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 f4 Bc5 fxe5 Qh4+": [
+    {
+      "name": "King's Gambit Declined: Classical Variation",
+      "from": "e1",
+      "to": "e2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 f4 Bc5 fxe5 Qh4+ Ke2": [
+    {
+      "name": "King's Gambit Declined: Classical Variation",
+      "from": "h4",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5": [
+    {
+      "name": "Borg Defense",
+      "from": "d2",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4": [
+    {
+      "name": "Borg Defense",
+      "from": "g5",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4": [
+    {
+      "name": "Borg Defense",
+      "from": "f2",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4": [
+    {
+      "name": "Borg Defense",
+      "from": "g4",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3": [
+    {
+      "name": "Borg Defense",
+      "from": "h2",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4": [
+    {
+      "name": "Borg Defense",
+      "from": "b8",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6": [
+    {
+      "name": "Borg Defense",
+      "from": "b1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3": [
+    {
+      "name": "Borg Defense",
+      "from": "e7",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5": [
+    {
+      "name": "Borg Defense",
+      "from": "g1",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3": [
+    {
+      "name": "Borg Defense",
+      "from": "g8",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6": [
+    {
+      "name": "Borg Defense",
+      "from": "f1",
+      "to": "b5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6 Bb5": [
+    {
+      "name": "Borg Defense",
+      "from": "c6",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6 Bb5 Nxd4": [
+    {
+      "name": "Borg Defense",
+      "from": "f3",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6 Bb5 Nxd4 Nxd4": [
+    {
+      "name": "Borg Defense",
+      "from": "f6",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6 Bb5 Nxd4 Nxd4 Nxe4": [
+    {
+      "name": "Borg Defense",
+      "from": "d4",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6 Bb5 Nxd4 Nxd4 Nxe4 Nf5": [
+    {
+      "name": "Borg Defense",
+      "from": "e4",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6 Bb5 Nxd4 Nxd4 Nxe4 Nf5 Nxc3": [
+    {
+      "name": "Borg Defense",
+      "from": "b2",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6 Bb5 Nxd4 Nxd4 Nxe4 Nf5 Nxc3 bxc3": [
+    {
+      "name": "Borg Defense",
+      "from": "f8",
+      "to": "a3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6 Bb5 Nxd4 Nxd4 Nxe4 Nf5 Nxc3 bxc3 Ba3": [
+    {
+      "name": "Borg Defense",
+      "from": "d1",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6 Bb5 Nxd4 Nxd4 Nxe4 Nf5 Nxc3 bxc3 Ba3 Qxd7+": [
+    {
+      "name": "Borg Defense",
+      "from": "e8",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 g5 d4 g4 f4 g3 h4 Nc6 Nc3 e5 Nf3 Nf6 Bb5 Nxd4 Nxd4 Nxe4 Nf5 Nxc3 bxc3 Ba3 Qxd7+ Kf8": [
+    {
+      "name": "Borg Defense",
+      "from": "d7",
+      "to": "d8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "b1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "b8",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f1",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f6",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f3",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c6",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d1",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h5",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e7",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f7",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d6",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d7",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c5",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c4",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d8",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d2",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f6",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c1",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f7",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g5",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c3",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e1",
+      "to": "c1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e7",
+      "to": "b4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d1",
+      "to": "e1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "b4",
+      "to": "e1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h1",
+      "to": "e1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h8",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f2",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c7",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f4",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d5",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e4",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e5",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e1",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c8",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e8",
+      "to": "a8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "b7",
+      "to": "b5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "a8",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f6",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c5",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g5",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g2",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h5",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f8",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g4",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f4",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h5",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e4",
+      "to": "f2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g4",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g3",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f5",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g4",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h7",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g5",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g7",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h6",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g6",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h7",
+      "to": "h8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f4",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h8",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f5",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d3",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e5",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e6",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c1",
+      "to": "d2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d7",
+      "to": "c7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f2",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "b5",
+      "to": "b4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h3",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "b4",
+      "to": "b3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c2",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "b3",
+      "to": "a2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "b2",
+      "to": "b3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "a2",
+      "to": "a1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d2",
+      "to": "e3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "a1",
+      "to": "e1",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e3",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e1",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c7",
+      "to": "c8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e7",
+      "to": "a7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c8",
+      "to": "d8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d5",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d8",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "a7",
+      "to": "a4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "e8",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "a4",
+      "to": "a8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8 Qa8+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "f8",
+      "to": "g7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8 Qa8+ Kg7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "c3",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8 Qa8+ Kg7 c4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g7",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8 Qa8+ Kg7 c4 Kh6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h2",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8 Qa8+ Kg7 c4 Kh6 h4": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h6",
+      "to": "g7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8 Qa8+ Kg7 c4 Kh6 h4 Kg7": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "a8",
+      "to": "d8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8 Qa8+ Kg7 c4 Kh6 h4 Kg7 Qd8": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "g7",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8 Qa8+ Kg7 c4 Kh6 h4 Kg7 Qd8 Kh6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d8",
+      "to": "h8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8 Qa8+ Kg7 c4 Kh6 h4 Kg7 Qd8 Kh6 Qh8+": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "h6",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Nxe5 Nxe5 Qh5 Ke7 Qxf7+ Kd6 Qxd7+ Kc5 Qd4+ Kxd4 Bf7 Qf6 d3 Qxf7 Bg5 Qe7 Bxe7 Bxe7 Nxe4 Kd5 O-O-O Bb4 Rde1 Bxe1 Rxe1 Re8 f4 c5 fxe5 Kxe5 Nxc5+ Kf6 Rxe8 Bh3 Rxa8 b5 Rf8+ Kg5 Ne4+ Kh5 g3 Kg4 Rf4+ Kh5 Rf5+ Kg4 Nf2+ Kxf5 g4+ Kf4 g5 h5 gxh6 g6 h7 g5 h8=Q Kf5 Qf8+ Ke5 d4+ Ke6 d5+ Kd7 Kd2 Kc7 Nxh3 b4 Nxg5 b3 c3 bxa2 b3 a1=Q Ke3 Qe1+ Kd4 Qe7 Qxe7+ Kc8 Qxa7 Kd8 d6 Ke8 Qa4+ Kf8 Qa8+ Kg7 c4 Kh6 h4 Kg7 Qd8 Kh6 Qh8+ Kg6": [
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "from": "d4",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f7",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d1",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "e8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h5",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "e7",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f5",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d6",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d7",
+      "to": "d8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8": [
+    {
+      "name": "Portuguese Opening",
+      "from": "c8",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d8",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "c5",
+      "to": "b6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d5",
+      "to": "b7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "b6",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d2",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "c5",
+      "to": "b4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "b7",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f5",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d5",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "b4",
+      "to": "a5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "a2",
+      "to": "a4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "a5",
+      "to": "b6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6": [
+    {
+      "name": "Portuguese Opening",
+      "from": "c4",
+      "to": "c7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "b6",
+      "to": "c7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "e4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "c2",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d5",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "b5",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "e5",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f2",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "e4",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3": [
+    {
+      "name": "Portuguese Opening",
+      "from": "g2",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f3",
+      "to": "f2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "e1",
+      "to": "f2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f8",
+      "to": "a3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3": [
+    {
+      "name": "Portuguese Opening",
+      "from": "g3",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "b8",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6": [
+    {
+      "name": "Portuguese Opening",
+      "from": "g4",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "g7",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6": [
+    {
+      "name": "Portuguese Opening",
+      "from": "g1",
+      "to": "h3",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h7",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6": [
+    {
+      "name": "Portuguese Opening",
+      "from": "g5",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h8",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h3",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "g8",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6": [
+    {
+      "name": "Portuguese Opening",
+      "from": "g5",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f6",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h2",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h7",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h4",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "c6",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h6",
+      "to": "h7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7": [
+    {
+      "name": "Portuguese Opening",
+      "from": "a3",
+      "to": "b2",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h7",
+      "to": "h8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q": [
+    {
+      "name": "Portuguese Opening",
+      "from": "e5",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h8",
+      "to": "a8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8": [
+    {
+      "name": "Portuguese Opening",
+      "from": "b2",
+      "to": "g7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7": [
+    {
+      "name": "Portuguese Opening",
+      "from": "c1",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "g7",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f4",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "c4",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6": [
+    {
+      "name": "Portuguese Opening",
+      "from": "a8",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8": [
+    {
+      "name": "Portuguese Opening",
+      "from": "c7",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f8",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7 Qxd6+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d7",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7 Qxd6+ Ke8": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h1",
+      "to": "h8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7 Qxd6+ Ke8 Rh8+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "e8",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7 Qxd6+ Ke8 Rh8+ Kf7": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d6",
+      "to": "f8",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7 Qxd6+ Ke8 Rh8+ Kf7 Qf8+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f7",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7 Qxd6+ Ke8 Rh8+ Kf7 Qf8+ Ke6": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f8",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7 Qxd6+ Ke8 Rh8+ Kf7 Qf8+ Ke6 Qd6+": [
+    {
+      "name": "Portuguese Opening",
+      "from": "e6",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7 Qxd6+ Ke8 Rh8+ Kf7 Qf8+ Ke6 Qd6+ Kf5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "h8",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7 Qxd6+ Ke8 Rh8+ Kf7 Qf8+ Ke6 Qd6+ Kf5 Rh4": [
+    {
+      "name": "Portuguese Opening",
+      "from": "f5",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "e4 e5 Bb5 f5 Qh5+ Ke7 Qxf5 Kd6 Qxd7+ Kc5 Qxd8 Bf5 Qd5+ Kb6 Qxb7+ Kc5 d4+ Kb4 Qd5 Bxe4 Qc4+ Ka5 a4 Kb6 Qxc7+ Kxc7 d5 Bxd5 c4 Bxc4 Bxc4 e4 f4 exf3 g3 f2+ Kxf2 Ba3 g4 Nc6 g5 g6 Nh3 h6 gxh6 Rh7 Ng5 Nf6 Nxh7 Nxh7 h4 Ng5 hxg5 Ne5 h7 Bxb2 h8=Q Nxc4 Qxa8 Bg7 Bf4+ Be5 Bxe5+ Nd6 Qf8 Kd7 Qxd6+ Ke8 Rh8+ Kf7 Qf8+ Ke6 Qd6+ Kf5 Rh4 Kxg5": [
+    {
+      "name": "Portuguese Opening",
+      "from": "d6",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "c4": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "e7",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "g2",
+      "to": "g3",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "g8",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "f1",
+      "to": "g2",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "b8",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "b1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "a8",
+      "to": "b8",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "e2",
+      "to": "e3",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "c6",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "e3",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "e5",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "c3",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "f6",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "c4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "f7",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "d2",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5 d3": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "d8",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5 d3 Qh4": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "g3",
+      "to": "h4",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5 d3 Qh4 gxh4": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "e8",
+      "to": "d8",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5 d3 Qh4 gxh4 Kd8": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "c1",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5 d3 Qh4 gxh4 Kd8 Bg5+": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "d8",
+      "to": "e8",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5 d3 Qh4 gxh4 Kd8 Bg5+ Ke8": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "d1",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5 d3 Qh4 gxh4 Kd8 Bg5+ Ke8 Qh5+": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "g7",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5 d3 Qh4 gxh4 Kd8 Bg5+ Ke8 Qh5+ g6": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "h5",
+      "to": "e2",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5 d3 Qh4 gxh4 Kd8 Bg5+ Ke8 Qh5+ g6 Qe2+": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "f8",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Rb8 e3 Nd4 exd4 exd4 Nd5 Nxd5 cxd5 f5 d3 Qh4 gxh4 Kd8 Bg5+ Ke8 Qh5+ g6 Qe2+ Be7": [
+    {
+      "name": "English Opening: King's English Variation",
+      "from": "e2",
+      "to": "e7",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "e2",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "e7",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "f1",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "f8",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "b1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "g8",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "g1",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "b8",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d1",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d8",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c3",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "f6",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "e4",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c6",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d3",
+      "to": "d4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "f5",
+      "to": "c2",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d4",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c2",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "e1",
+      "to": "c1",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "e8",
+      "to": "c8",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c5",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d8",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d6",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c8",
+      "to": "d7",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d5",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c7",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c4",
+      "to": "f7",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "h7",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "f7",
+      "to": "b3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "f5",
+      "to": "c2",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c1",
+      "to": "c2",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "h8",
+      "to": "c8",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c2",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c8",
+      "to": "c4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "b3",
+      "to": "a4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d7",
+      "to": "e6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "f3",
+      "to": "g5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "e6",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "f4",
+      "to": "c1",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "e5",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1 e4+": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d3",
+      "to": "e2",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1 e4+ Ke2+": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d5",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1 e4+ Ke2+ Ke5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d1",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1 e4+ Ke2+ Ke5 Rxd6": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c4",
+      "to": "c1",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1 e4+ Ke2+ Ke5 Rxd6 Rxc1": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d6",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1 e4+ Ke2+ Ke5 Rxd6 Rxc1 Rd3": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "e4",
+      "to": "d3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1 e4+ Ke2+ Ke5 Rxd6 Rxc1 Rd3 exd3+": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "e2",
+      "to": "f3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1 e4+ Ke2+ Ke5 Rxd6 Rxc1 Rd3 exd3+ Kf3": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "e5",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1 e4+ Ke2+ Ke5 Rxd6 Rxc1 Rd3 exd3+ Kf3 Kf5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "a4",
+      "to": "b5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 Bf5 e4 e5 Bc4 Bc5 Nc3 Nf6 Nf3 Nc6 Qd3 Qd6 Nxd5 Nxd5 exd5 Nxd4 Qxd4 Bxc2 Qxc5 Bf5 O-O-O O-O-O Qxd6 Rd7 Qxd7+ Kxd7 d6 cxd6 Bxf7 h5 Bb3 Bc2 Kxc2 Rc8+ Kd3 Rc4 Ba4+ Ke6 Ng5+ Kd5 Bc1 e4+ Ke2+ Ke5 Rxd6 Rxc1 Rd3 exd3+ Kf3 Kf5 Bb5": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "b7",
+      "to": "b6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 e5": [
+    {
+      "name": "Englund Gambit",
+      "from": "d4",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 e5 dxe5": [
+    {
+      "name": "Englund Gambit",
+      "from": "a7",
+      "to": "a5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 e5 dxe5 a5": [
+    {
+      "name": "Englund Gambit",
+      "from": "a2",
+      "to": "a4",
+      "color": "#15781B"
+    }
+  ],
+  "d4 e5 dxe5 a5 a4": [
+    {
+      "name": "Englund Gambit",
+      "from": "d7",
+      "to": "d5",
+      "color": "#15781B"
+    }
+  ],
+  "d4 e5 dxe5 a5 a4 d5": [
+    {
+      "name": "Englund Gambit",
+      "from": "e5",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 e5 dxe5 a5 a4 d5 exd6": [
+    {
+      "name": "Englund Gambit",
+      "from": "c7",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 e5 dxe5 a5 a4 d5 exd6 cxd6": [
+    {
+      "name": "Englund Gambit",
+      "from": "b1",
+      "to": "c3",
+      "color": "#15781B"
+    }
+  ],
+  "d4 e5 dxe5 a5 a4 d5 exd6 cxd6 Nc3": [
+    {
+      "name": "Englund Gambit",
+      "from": "g8",
+      "to": "f6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 h5 Bxc7": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "d8",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "d4 d5 Bf4 h5 Bxc7 Qd6": [
+    {
+      "name": "Queen's Pawn Game: Accelerated London System",
+      "from": "c7",
+      "to": "d6",
+      "color": "#15781B"
+    }
+  ],
+  "Qxc4": [
+    {
+      "name": "?",
+      "from": "f2",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "Qxc4 Qc5": [
+    {
+      "name": "?",
+      "from": "c4",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "Qxc4 Qc5 Qxc5+": [
+    {
+      "name": "?",
+      "from": "f5",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "Qxc4 Qc5 Qxc5+ Kf4": [
+    {
+      "name": "?",
+      "from": "c5",
+      "to": "c6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxh6+": [
+    {
+      "name": "?",
+      "from": "g7",
+      "to": "h6",
+      "color": "#15781B"
+    }
+  ],
+  "Rxh6+ gxh6": [
+    {
+      "name": "?",
+      "from": "c1",
+      "to": "h1",
+      "color": "#15781B"
+    }
+  ],
+  "Rxh6+ gxh6 Rh1": [
+    {
+      "name": "?",
+      "from": "g8",
+      "to": "g7",
+      "color": "#15781B"
+    }
+  ],
+  "Rxh6+ gxh6 Rh1 Qg7": [
+    {
+      "name": "?",
+      "from": "e7",
+      "to": "c5",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7": [
+    {
+      "name": "?",
+      "from": "f7",
+      "to": "b7",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7": [
+    {
+      "name": "?",
+      "from": "h5",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+": [
+    {
+      "name": "?",
+      "from": "h7",
+      "to": "g6",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6": [
+    {
+      "name": "?",
+      "from": "d8",
+      "to": "g8",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+": [
+    {
+      "name": "?",
+      "from": "g6",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5": [
+    {
+      "name": "?",
+      "from": "g8",
+      "to": "g4",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5 Qg4+": [
+    {
+      "name": "?",
+      "from": "f5",
+      "to": "e5",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5 Qg4+ Ke5": [
+    {
+      "name": "?",
+      "from": "g4",
+      "to": "h5",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5 Qg4+ Ke5 Qh5+": [
+    {
+      "name": "?",
+      "from": "f3",
+      "to": "f5",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5 Qg4+ Ke5 Qh5+ Rf5": [
+    {
+      "name": "?",
+      "from": "f2",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5 Qg4+ Ke5 Qh5+ Rf5 f4+": [
+    {
+      "name": "?",
+      "from": "h2",
+      "to": "f4",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5 Qg4+ Ke5 Qh5+ Rf5 f4+ Bxf4": [
+    {
+      "name": "?",
+      "from": "h5",
+      "to": "e2",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5 Qg4+ Ke5 Qh5+ Rf5 f4+ Bxf4 Qxe2+": [
+    {
+      "name": "?",
+      "from": "d1",
+      "to": "e2",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5 Qg4+ Ke5 Qh5+ Rf5 f4+ Bxf4 Qxe2+ Bxe2": [
+    {
+      "name": "?",
+      "from": "a4",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5 Qg4+ Ke5 Qh5+ Rf5 f4+ Bxf4 Qxe2+ Bxe2 Re4+": [
+    {
+      "name": "?",
+      "from": "d5",
+      "to": "e4",
+      "color": "#15781B"
+    }
+  ],
+  "Rb7 Qxb7 Bxg6+ Kxg6 Qg8+ Kxf5 Qg4+ Ke5 Qh5+ Rf5 f4+ Bxf4 Qxe2+ Bxe2 Re4+ dxe4": [
+    {
+      "name": "?",
+      "from": "d3",
+      "to": "d4",
       "color": "#15781B"
     }
   ]
